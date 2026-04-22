@@ -1,6 +1,6 @@
 import java.util.PriorityQueue;
 
-public class Priorityqueue
+public class PriorityQueue2
 {
 	public static void main(String[] args)
 	{
